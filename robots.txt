@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rafatapi.github.io/dorosa/sitemap.xml
