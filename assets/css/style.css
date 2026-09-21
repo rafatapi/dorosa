@@ -18,3 +18,8 @@
 .brand-official{line-height:0}.brand-logo{width:104px;height:78px;object-fit:contain;object-position:center}.footer-logo{width:150px;height:116px}.footer-brand{margin-bottom:10px}
 @media(max-width:600px){.brand-logo{width:84px;height:64px}.footer-logo{width:135px;height:104px}}
 .footer-links a,.footer-contact a{display:flex;align-items:center;gap:10px;width:max-content;transition:color .2s ease}.footer-links a:hover,.footer-contact a:hover{color:#fff}.footer-icon{display:grid;place-items:center;width:28px;height:28px;border:1px solid rgba(255,255,255,.18);border-radius:50%;color:var(--red);font-size:14px}.footer-contact .footer-icon{color:#25d366}.whatsapp-float i{font-size:27px}
+
+/* Compact layout */
+.hero,.hero-grid{min-height:700px}.hero-product{height:600px}.hero-product img{height:570px}.section{padding:78px 0}.products-heading{margin-bottom:32px}.product-card{min-height:440px}.product-pack{height:280px}.section-heading.compact{margin-bottom:32px}.feature-card{min-height:170px;padding:22px}.feature-icon{margin:12px 0 8px;font-size:32px}.feature-card h3{margin:0}.origin-strip{margin-top:20px}.cta-section{padding:65px 0}footer{padding-top:50px}.footer-grid{padding-bottom:42px}
+@media(max-width:900px){.hero,.hero-grid{min-height:auto}.hero-product{height:500px}.hero-product img{height:500px}}
+@media(max-width:600px){.hero-product{height:390px}.hero-product img{height:400px}.section{padding:60px 0}.product-card{min-height:430px}.product-pack{height:285px}.feature-card{min-height:125px;padding:20px}.feature-icon{margin:8px 0}.cta-section{padding:55px 0}}
